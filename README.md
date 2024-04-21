@@ -41,7 +41,6 @@ I need to know about the heights issue on a different screen sizes efficiently.
 
 ## Author
 
-- Website - [Mujtaba Hassan](https://www.your-site.com)
 - Frontend Mentor - [@mujtabahassan1995](https://mujtabahassan1995.github.io/QR-code-component/)
 
 
